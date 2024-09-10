@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+*{
+    box-sizing: border-box;
+}
+
+
+
+.summary{
+    border-top: 4px solid #5ea4f3;
+    background-color: #f7fbff;
+}
